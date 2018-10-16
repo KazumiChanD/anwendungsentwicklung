@@ -1,0 +1,23 @@
+.bubble {
+    position: relative;
+    text-align: center;
+    background-color: #66ccff;
+    width: 140px;
+    left: 20px;
+    height: 80px;
+    border-radius: 10px;
+    border: 10px #66ccff solid;
+    color: #66ccff;
+}
+
+
+.arrow-left {
+    position: relative;
+    transform: scale(1.4);
+    width: 0;
+    height: 0;
+    top: -98px;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right:18px solid #66ccff;
+}

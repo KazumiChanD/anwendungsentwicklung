@@ -1,0 +1,8 @@
+p {
+    color: white;
+    padding: 20px;
+    text-align: center;
+    background-color: darkorange;
+    width: calc(75% - 100px);
+    height: 15px;
+}

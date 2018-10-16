@@ -1,0 +1,17 @@
+.ribbon {
+    font: bold 15px sans-serif;
+    text-align: center;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform:    rotate(-45deg);
+    -ms-transform:     rotate(-45deg);
+    -o-transform:      rotate(-45deg);
+    position: relative;
+    padding: 10px 0;
+    top: 30px;
+    left: -55px;
+    width: 210px;
+    background-color: darkred;
+    color: white;
+    border: 1px solid red;
+    box-shadow: 0 0 0 1px darkred, 2px 0.5px 6px 2.5px rgb(128, 128, 128);
+}
