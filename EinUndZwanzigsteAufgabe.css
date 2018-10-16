@@ -1,0 +1,14 @@
+.Empty {
+    position: relative;
+    background-color: darkorange;
+    width: 200px;
+    height: 150px;
+}
+
+.notEmpty {
+    position: relative;
+    top: 10px;
+    background-color: #66ccff;
+    width: 200px;
+    height: 150px;
+}

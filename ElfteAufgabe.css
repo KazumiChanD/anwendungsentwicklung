@@ -1,0 +1,10 @@
+.effekt {
+    text-align: center;
+    background-color: #1a8cff;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px white dashed;
+    color: #1a8cff;
+    box-shadow: 0 0 0 3px #1a8cff, 2px 2px 6px 4px rgba(10, 10, 0, 0.4);
+}

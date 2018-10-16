@@ -1,0 +1,47 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: green;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: green;
+    min-width: 16px;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: white;
+    padding: 5px 4px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: green;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+a {
+    color: white;
+}
+
+li {
+    display: inline;
+    padding: 5px;
+}
+
+li a:hover {
+    color: orange;
+}

@@ -1,0 +1,17 @@
+p {
+    color: grey;
+    position: relative;
+    top: -125px;
+    left: 60px;
+    z-index: 1;
+    border-radius: 50%;
+
+}
+
+#picture {
+    z-index: -1;
+    height: 50%;
+    width: 50%;
+    position: relative;
+    border-radius: 50%;
+}
